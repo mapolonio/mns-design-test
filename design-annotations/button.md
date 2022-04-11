@@ -1,6 +1,6 @@
 ### Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eu ex fringilla, luctus eros nec, varius justo. Donec quis faucibus sem, id gravida nisi. Praesent aliquam libero quis dolor viverra, id porttitor leo vestibulum. Ut accumsan nulla eget mi egestas, at ullamcorper neque blandit. Etiam id quam nec erat convallis pharetra ac sit amet diam. Sed eu metus tempus, fringilla libero eu, rhoncus nisl. Fusce quam lorem, vestibulum sollicitudin tempor ac, ornare in lorem. Cras rhoncus consectetur euismod. Aliquam justo eros, molestie at egestas in, tempor ac metus. Sed dictum faucibus quam, non sagittis augue tempus pellentesque.
+This is the overview text
 
 {{{STORIES}}}
 
