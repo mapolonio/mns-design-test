@@ -1,6 +1,6 @@
 ### Overview
 
-This is the overview content. asdasdsadasdd
+This is the overview content.
 
 {{{STORIES}}}
 
