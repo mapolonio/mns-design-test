@@ -1,12 +1,12 @@
 ### Overview
 
-This is the overview content and the is the **NEW** content.
+This is the overview content.
+
+{{{STORIES}}}
 
 ### Best practices
 
 Here you can find best practices.
-
-{{{STORIES}}}
 
 ### Dont's
 
