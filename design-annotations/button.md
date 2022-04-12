@@ -1,6 +1,6 @@
 ### Overview
 
-This is the **NEW** overview text and this is even newer content.
+This is the overview content.
 
 {{{STORIES}}}
 
