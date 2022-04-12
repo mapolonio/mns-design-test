@@ -2,8 +2,6 @@
 
 This is the overview content.
 
-NEW CONTENT HERE
-
 {{{STORIES}}}
 
 ### Best practices
