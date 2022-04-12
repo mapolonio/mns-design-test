@@ -2,6 +2,8 @@
 
 This is the overview text
 
+{{{STORIES}}}
+
 ### Best practices
 
 Here you can find best practices.
@@ -18,4 +20,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur gravida molli
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur gravida mollis lorem quis commodo.
 
-{{{STORIES}}}
