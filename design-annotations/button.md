@@ -2,11 +2,9 @@
 
 This is the overview content.
 
-
-### Best practices
-
 {{{STORIES}}}
 
+### Best practices
 
 Here you can find best practices.
 
