@@ -1,6 +1,6 @@
 ### Overview
 
-{{{STORIES}}}
+
 
 This is the overview content.
 
@@ -18,6 +18,10 @@ Here you can find best practices.
 
 ### Dont's
 
+- 1
+- 2
+- 3
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur gravida mollis lorem quis commodo.
 
 ### Other considerations
@@ -29,3 +33,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur gravida molli
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur gravida mollis lorem quis commodo.
 
 
+{{{STORIES}}}
